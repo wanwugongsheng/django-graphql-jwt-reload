@@ -21,7 +21,7 @@ def get_version(package):
 
 
 setup(
-    name='django-graphql-jwt',
+    name='django-graphql-jwt-reload',
     version=get_version('graphql_jwt'),
     license='MIT',
     description='JSON Web Token for Django GraphQL',
